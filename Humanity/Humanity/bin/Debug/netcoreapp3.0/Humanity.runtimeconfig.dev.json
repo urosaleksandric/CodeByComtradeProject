@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rosulica\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rosulica\\.nuget\\packages"
+    ]
+  }
+}

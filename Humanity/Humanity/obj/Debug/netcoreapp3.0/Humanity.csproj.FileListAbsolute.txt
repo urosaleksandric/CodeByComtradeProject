@@ -1,0 +1,16 @@
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.exe
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.csprojAssemblyReference.cache
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.AssemblyInfoInputs.cache
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.AssemblyInfo.cs
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.csproj.CopyComplete
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.deps.json
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.runtimeconfig.json
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.runtimeconfig.dev.json
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.dll
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\Humanity.pdb
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.dll
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\obj\Debug\netcoreapp3.0\Humanity.pdb
+C:\Users\Rosulica\Desktop\Zavrsni projekat\Humanity\Humanity\bin\Debug\netcoreapp3.0\IronXL.dll
